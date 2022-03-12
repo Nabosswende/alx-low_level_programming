@@ -1,3 +1,4 @@
-**This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print whether the number stored in the variable n is positive or negative.**<br>
-**This program will assign a random number to the variable n each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable n.**<br>
+**This program will assign a random number to the variable n each time it is executed.**<br>
+**This program will assign a random number to the variable n each time it is executed.**<br>
 **Write a program that prints the alphabet in lowercase, followed by a new line.**<br>
+**Write a program that prints the alphabet in lowercase, and then in uppercase**<br>
