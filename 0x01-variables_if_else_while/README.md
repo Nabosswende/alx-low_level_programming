@@ -3,3 +3,4 @@
 **Write a program that prints the alphabet in lowercase, followed by a new line.**<br>
 **Write a program that prints the alphabet in lowercase, and then in uppercase**<br>
 **Write a program that prints the alphabet in lowercase**<br>
+**Write a program that prints all single digit numbers of base 10 starting from 0**
