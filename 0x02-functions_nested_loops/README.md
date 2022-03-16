@@ -5,3 +5,4 @@
 **Write a function that checks for alphabetic character.**<br>
 **Write a function that prints the sign of a number.**<br>
 **Write a function that computes the absolute value of an integer.**<br>
+**Write a function that prints the last digit of a number.**<br>
