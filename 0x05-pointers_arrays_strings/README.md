@@ -4,3 +4,4 @@
 **Write a function that prints a string, followed by a new line, to stdout.**<br>
 **Write a function that prints a string, in reverse**<br>
 **Write a function that reverses a string.**<br>
+**Write a function that prints every other character of a string, starting with the first character**<br>
