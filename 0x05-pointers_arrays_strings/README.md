@@ -2,3 +2,4 @@
 **Write a function that swaps the values of two integers.**<br>
 **Write a function that returns the length of a string.**<br>
 **Write a function that prints a string, followed by a new line, to stdout.**<br>
+**Write a function that prints a string, in reverse**<br>
