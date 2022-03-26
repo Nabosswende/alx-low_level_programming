@@ -6,3 +6,4 @@
 **Write a function that capitalizes all words of a string.**<br>
 **Write a function that encodes a string into 1337.**<br>
 **Write a function that encodes a string using rot13.**<br>
+**Write a function that prints an integer.**<br>
